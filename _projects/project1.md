@@ -4,7 +4,7 @@ title: "Project 1"
 date: 2025-03-22
 categories: [Backend Development, API Design]
 tags: [python, django, postgresql, redis, docker]
-image: /assets/img/projects/project1.jpg
+image: 
 technologies: [Python, Django, PostgreSQL, Redis, Docker]
 ---
 

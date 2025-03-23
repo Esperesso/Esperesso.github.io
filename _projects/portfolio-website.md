@@ -4,7 +4,7 @@ title: "Portfolio Website"
 date: 2025-03-10
 categories: [Web Development]
 tags: [jekyll, html, css, javascript, github-pages]
-image: /assets/img/projects/portfolio.jpg
+image: 
 technologies: [Jekyll, HTML, CSS, JavaScript, GitHub Pages]
 ---
 

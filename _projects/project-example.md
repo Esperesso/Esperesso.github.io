@@ -2,7 +2,7 @@
 title: "Project Title"
 date: 2023-01-15
 technologies: ["Python", "Django", "PostgreSQL"]
-image: /assets/images/projects/project-image.jpg
+image: 
 ---
 
 Project description goes here. This will be used as the excerpt on the projects page.
