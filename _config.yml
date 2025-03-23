@@ -192,6 +192,12 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+        # Projects
+  - scope:
+      path: "_projects"
+      type: "projects"
+    values:
+      layout: post
 
 sass:
   style: compressed
