@@ -2,10 +2,7 @@
 layout: post
 title: "Portfolio Website"
 date: 2025-03-10
-categories: [Web Development]
-tags: [jekyll, html, css, javascript, github-pages]
 image: 
-technologies: [Jekyll, HTML, CSS, JavaScript, GitHub Pages]
 ---
 
 ## Portfolio Website

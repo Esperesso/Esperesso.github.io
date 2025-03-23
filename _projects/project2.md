@@ -2,10 +2,7 @@
 layout: post
 title: "Task Management Application"
 date: 2025-03-15
-categories: [Web Development, Backend]
-tags: [node.js, express, mongodb, react, aws]
 image: 
-technologies: [Node.js, Express, MongoDB, React, AWS]
 ---
 
 ## Task Management Application

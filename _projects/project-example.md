@@ -1,7 +1,6 @@
 ---
 title: "Project Title"
 date: 2023-01-15
-technologies: ["Python", "Django", "PostgreSQL"]
 image: 
 ---
 
